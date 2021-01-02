@@ -1,4 +1,22 @@
 
+v1.44.3
+-------
+
+Fix a memory leak in the Document model (#138)
+
+
+v1.44.2
+-------
+
+Fix a memory leak in the Document model (#138)
+
+
+v1.44.1
+-------
+
+Mitigate leak issue with term.table() (#138)
+
+
 v1.44.0
 -------
 
